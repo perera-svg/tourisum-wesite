@@ -1,0 +1,34 @@
+{
+  "projectName": "tourisum-wesite",
+  "mode": "file-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "pnpm",
+  "addOnOptions": {
+    "prisma": {
+      "database": "postgres"
+    }
+  },
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "biome",
+    "nitro",
+    "start",
+    "prisma",
+    "db",
+    "form",
+    "shadcn",
+    "t3env",
+    "table",
+    "store",
+    "storybook",
+    "tanstack-query",
+    "workos",
+    "sentry",
+    "compiler",
+    "tRPC",
+    "tanchat"
+  ]
+}
